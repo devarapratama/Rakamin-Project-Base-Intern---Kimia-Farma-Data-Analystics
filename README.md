@@ -11,11 +11,11 @@ The Project-Based Internship (PBI) is a virtual internship program created by Ra
 #### Challenge
 * Create a transaction analysis table as datamart from the dataset provided by Kimia Farma
 * Create dashboard to visualize Kimia Farma Performace Analysis from bussiness year 2020 to 2023, with the following objectives :
-    1. To compare Kimia Farma revenue year over year.
-    2. To find Top 10 total transaction branches by province.
-    3. To find Top 10 nett sales branches by province.
-    4. To find 5 branch with the highest rating, but with lowest rating transaction.
-    5. To visualize total profit of each province using Geo Map.
+1. To compare Kimia Farma revenue year over year.
+2. To find Top 10 total transaction branches by province.
+3. To find Top 10 nett sales branches by province.
+4. To find 5 branch with the highest rating, but with lowest rating transaction.
+5. To visualize total profit of each province using Geo Map.
 
 #### Dataset 
 * Final Transaction 
