@@ -49,8 +49,9 @@ After I created the datamart. i visualize using google looker studio. Data visua
 
 ### Dashboard preview
 The following is a display of the dashboard that I created:
-
-  ![README.md](https://github.com/devarapratama/Rakamin-Project-Base-Intern---Kimia-Farma-Data-Analystics/blob/main/images/Screenshot%202024-05-13%20235558.png?raw=true)
+<center>
+![README.md](https://github.com/devarapratama/Rakamin-Project-Base-Intern---Kimia-Farma-Data-Analystics/blob/main/images/Screenshot%202024-05-13%20235558.png?raw=true)
+</center>
 
 ### Data Snapshot in a Scorecard
 I made 3 important data into a scorecard, here is what it looks like :
